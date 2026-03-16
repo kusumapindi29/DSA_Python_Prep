@@ -6,7 +6,7 @@ Language:
 Python
 
 Platforms:
-LeetCode
+LeetCode,
 HackerRank
 
 Topics Covered:
